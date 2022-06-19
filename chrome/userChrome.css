@@ -1,0 +1,10 @@
+/* Custom CSS rules injection point
+
+Importing other files:
+@import url("foobar.css") screen;
+*/
+
+/* Collapses visibility of the sidebar header and tab bar */
+#titlebar, #sidebar-header {
+  visibility: collapse !important;
+}

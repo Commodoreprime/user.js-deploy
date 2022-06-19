@@ -70,6 +70,9 @@ user_pref("browser.triple_click_selects_paragraph", true);
  */
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
 
+/* Moves the sidebar to the right side of the window */
+user_pref("sidebar.position_start", false);
+
 /* Don't close the browser when the last tab is closed[2] */
 user_pref("browser.tabs.closeWindowWithLastTab", false);
 

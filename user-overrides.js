@@ -12,7 +12,8 @@ user_pref("dom.security.https_only_mode_send_http_background_request", true); //
 user_pref("gfx.font_rendering.opentype_svg.enabled", true); // 1401
 user_pref("browser.eme.ui.enabled", true); // 2022
 user_pref("pdfjs.disabled", false); // 2620
-user_pref("privacy.clearOnShutdown.cookies", false); // 2811
+user_pref("privacy.clearOnShutdown.sessions", false); // 2811
+user_pref("privacy.clearOnShutdown.cookies", false); // 2815
 user_pref("signon.rememberSignons", false); // 5003
 user_pref("permissions.memory_only", true); // 5004
 

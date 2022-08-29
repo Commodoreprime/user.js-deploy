@@ -13,7 +13,6 @@ user_pref("gfx.font_rendering.opentype_svg.enabled", true); // 1401
 user_pref("browser.eme.ui.enabled", true); // 2022
 user_pref("pdfjs.disabled", false); // 2620
 user_pref("privacy.clearOnShutdown.cookies", false); // 2811
-user_pref("privacy.cpd.cookies", true); // 2812
 user_pref("signon.rememberSignons", false); // 5003
 user_pref("permissions.memory_only", true); // 5004
 
@@ -24,7 +23,7 @@ user_pref("permissions.memory_only", true); // 5004
 /**** https://github.com/arkenfox/user.js/issues/1080 ****/
 /***                                                   ***/
 /*********************************************************/
-user_pref("_user.js.parrot", "Syntax error @ section 4 in user-overrides.js");
+user_pref("_user.js.parrot", "Syntax error @ section 2 in user-overrides.js");
 
 user_pref("browser.startup.page", 3); // 0102
 user_pref("browser.sessionstore.privacy_level", 0); // 1003
@@ -37,7 +36,7 @@ user_pref("privacy.clearOnShutdown.history", false); // 2811
 /**** https://github.com/arkenfox/user.js/issues/1080 ****/
 /***                                                   ***/
 /*********************************************************/
-user_pref("_user.js.parrot", "Syntax error @ section 4 in user-overrides.js");
+user_pref("_user.js.parrot", "Syntax error @ section 3 in user-overrides.js");
 
 user_pref("media.eme.enabled", true); // 2022
 

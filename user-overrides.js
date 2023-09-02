@@ -10,12 +10,8 @@ user_pref("_user.js.parrot", "Syntax error @ section 1 in user-overrides.js");
 user_pref("browser.safebrowsing.downloads.remote.enabled", true); // 0403
 user_pref("dom.security.https_only_mode_send_http_background_request", true); // 1246
 user_pref("gfx.font_rendering.opentype_svg.enabled", true); // 1401
-user_pref("browser.eme.ui.enabled", true); // 2022
 user_pref("pdfjs.disabled", false); // 2620
-user_pref("privacy.clearOnShutdown.sessions", false); // 2811
-user_pref("privacy.clearOnShutdown.cookies", false); // 2815
 user_pref("signon.rememberSignons", false); // 5003
-user_pref("permissions.memory_only", true); // 5004
 
 
 /* SECTION 2 *********************************************/
@@ -38,8 +34,6 @@ user_pref("privacy.clearOnShutdown.history", false); // 2811
 /***                                                   ***/
 /*********************************************************/
 user_pref("_user.js.parrot", "Syntax error @ section 3 in user-overrides.js");
-
-user_pref("media.eme.enabled", true); // 2022
 
 
 /* SECTION 4 ********************/

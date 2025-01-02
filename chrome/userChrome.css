@@ -5,6 +5,6 @@ Importing other files:
 */
 
 /* Collapses visibility of the sidebar header and tab bar */
-#titlebar, #sidebar-header {
+#TabsToolbar, #sidebar-header {
   visibility: collapse !important;
 }
